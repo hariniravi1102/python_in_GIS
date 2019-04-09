@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/owls_season_distance" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
